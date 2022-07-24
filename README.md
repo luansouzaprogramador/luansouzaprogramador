@@ -1,19 +1,20 @@
-# Olá, seja muito bem-vindo(a) ao meu GitHub! ^_^
+## Oiii eu sou o Luan, criador de conteúdo de programação e tecnologia!
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Java e Python
 - 😄 Pronouns: ele/dele
 
-<div>
+<div align="center">
   <a href="https://github.com/luansouzaprogramador">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=luansouzaprogramador&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansouzaprogramador&layout=compact&langs_count=16&theme=dracula"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=luansouzaprogramador&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansouzaprogramador&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style=display": inline_block"><br>
   <img align="center" alt="Luan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="right" alt="Anime-Imagem" height="150" style="border-radius:50px;" src="<img src="https://cdn-icons-png.flaticon.com/512/993/993552.png" alt="inovação grátis ícone"/>![image](https://user-images.githubusercontent.com/109920817/180671126-324c79e6-9c9a-4e7d-b8c9-16b699d13b90.png)">
 </div>
 
 ##
