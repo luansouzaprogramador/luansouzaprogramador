@@ -1,4 +1,4 @@
-# Olá, seja muito bem-vindo(a) ao meu GitHub!
+# Olá, seja muito bem-vindo(a) ao meu GitHub! ^_^
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Java e Python
@@ -14,7 +14,6 @@
   <img align="center" alt="Luan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="right" alt="Gif" src="https://gifs.alphacoders.com/gifs/view/3987.gif">
 </div>
 
 ##
@@ -24,5 +23,4 @@
   <a href="mailto:luanmarcelino1000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5531986975142" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/luansouzaprogramador/luansouzaprogramador/blob/output/github-contribution-grid-snake.svg)
+  
