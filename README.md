@@ -14,7 +14,7 @@
   <img align="center" alt="Luan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Luan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="right" alt="Anime-Imagem" height="150" style="border-radius:50px;" src="<img src="https://cdn-icons-png.flaticon.com/512/993/993552.png" alt="inovação grátis ícone"/>![image](https://user-images.githubusercontent.com/109920817/180671126-324c79e6-9c9a-4e7d-b8c9-16b699d13b90.png)">
+  <img align="right" alt="Github" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
 </div>
 
 ##
@@ -25,6 +25,6 @@
   <a href="mailto:luanmarcelino1000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://wa.me/5531986975142" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/luansouzaprogramador/luansouzaprogramador/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-![Snake animation](https://github.com/luansouzaprogramador/luansouzaprogramador/blob/output/github-contribution-grid-snake.svg)
