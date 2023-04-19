@@ -1,4 +1,4 @@
-## Oiii eu sou o Luan, criador de conteúdo de programação e tecnologia!
+## Oiii eu sou o Luan, estudante de programação e tecnologia!
 
 - 🔭 Estou no 2° período de Engenharia de Computação
 - ✨ HTML, CSS e JavaScript básico
