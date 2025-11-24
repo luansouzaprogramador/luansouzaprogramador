@@ -1,6 +1,6 @@
 ## Oiii eu sou o Luan, estudante de programação e tecnologia!
 
-- 🔭 Estou no 2° período de Engenharia de Computação
+- 🔭 Estou no 6° período de Engenharia de Computação
 - ✨ HTML, CSS e JavaScript básico
 - 👨🏻‍💻 Boas noções das linguagens C e Java
 - 🌱 Estudando Java, C e Python
